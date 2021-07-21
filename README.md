@@ -25,6 +25,8 @@ The system allows us to add records when a passenger reserves a ticket. It also 
 •	The cancelled tickets are viewed using the cancellation number.
 
 # Run
+Use the following softwares:
+
 Apache NetBeans IDE 12.2
 
 wampserver3.2.3_x64
