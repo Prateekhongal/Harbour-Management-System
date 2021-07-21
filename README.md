@@ -6,7 +6,7 @@ This project on Harbour Management is the automation of registration process of 
 The system is able to provide much information like passenger’s details, ship details and the booking details. 
 The system allows us to add records when a passenger reserves a ticket. It also allows deleting and updating the records.
 
-# 2.	Objectives
+# Objectives
 
 •	User can login to the interface if correct username and password are entered.
 
@@ -23,3 +23,7 @@ The system allows us to add records when a passenger reserves a ticket. It also 
 •	A particular ticket can be cancelled within a given amount of time.
 
 •	The cancelled tickets are viewed using the cancellation number.
+
+# Run
+Apache NetBeans IDE 12.2
+wampserver3.2.3_x64
